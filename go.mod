@@ -1,1 +1,1 @@
-module "github.com/dikariangga/go-say-hello"
+module "github.com/dikariangga/go-say-hello/v2"
