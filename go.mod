@@ -1,0 +1,1 @@
+module "github.com/dikariangga/go-say-hello"
